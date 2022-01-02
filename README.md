@@ -21,3 +21,8 @@ How to make WordPress Themes, Plugins, REST API, JavaScript, Reactjs etc
 > Version : 1.0
 > */
 > ```
+
+- To add a preview image of the theme.
+   - Add an image that `must` be named `screenshot.png` into the theme folder
+   - Image should be 1200 x 900 (w x h)
+   - Wordpress will be looking for `screenshot.png` to use as the theme cover image.
