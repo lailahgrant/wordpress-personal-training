@@ -13,10 +13,10 @@ How to make WordPress Themes, Plugins, REST API, JavaScript, Reactjs etc
 > 
 > Description is put in comments e.g.
 >
-> :fire: style.css
+> :fire: style.css - This file `must` be `style.css` not any other name. 
 > ```
 > /*
-> Theme : Portfolio Theme
+> Theme Name : Portfolio Theme
 > Author : Lailah
 > Version : 1.0
 > */
